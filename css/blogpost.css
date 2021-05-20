@@ -120,3 +120,18 @@
     margin-right: 15px;
     font-size: 20px;
 }
+
+.post-img {
+    max-height: 200px;
+    max-width: 800px;
+    border-radius: 12px;
+}
+
+.blogimg-box {
+    display: flex;
+    justify-content: center;
+    min-width: 250px;
+    border-radius: 12px;
+    background-color: rgb(252, 248, 251);
+    margin: 10px;
+}
